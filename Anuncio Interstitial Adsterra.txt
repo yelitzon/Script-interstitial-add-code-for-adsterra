@@ -2,8 +2,8 @@
   <div class="vigneta" id="vigneta">
   	<div class="modal">
 		<div class="fondogris">
-    			<!-- Coloca tu Anuncio Aqui-->
- 			<!-- Your code ads here-->
+    			<!-- Coloca tu Anuncio de 300x250 Aqui-->
+ 			<!-- Your code ads 300x250 here-->
 		</div>
       		<div style="display: inline-block; width: 100%; margin-top:12px;">
        			<button class="close" id="close" onclick="closead();">Close</button>
