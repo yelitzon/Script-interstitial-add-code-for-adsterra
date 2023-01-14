@@ -1,38 +1,28 @@
 <center>
   <div class="vigneta" id="vigneta">
-	<div class="modal">
+  	<div class="modal">
 		<div class="fondogris">
-    		<script type="text/javascript">
-	atOptions = {
-		'key' : '51c5cdf965b5cd7a0096958aae420e92',
-		'format' : 'iframe',
-		'height' : 250,
-		'width' : 300,
-		'params' : {}
-	};
-	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://edaciousedaciousindexesbrief.com/51c5cdf965b5cd7a0096958aae420e92/invoke.js"></scr' + 'ipt>');
-			</script> 
-   		</div>
-      <div style="display: inline-block; width: 100%; margin-top:12px;">
-       	<button class="close" id="close" onclick="closead();">Close</button>
-    	<button class="open" onclick="window.location.href='https://edaciousedaciousindexesbrief.com/q107jc3pb9?key=7fe76c84261f8717d7a66707f58ebf96'">Open</button>
-      </div>
+    			<!-- Coloca tu Anuncio Aqui-->
+ 			<!-- Your code ads here-->
+		</div>
+      		<div style="display: inline-block; width: 100%; margin-top:12px;">
+       			<button class="close" id="close" onclick="closead();">Close</button>
+    			<button class="open" onclick="window.location.href='#'">Open</button>
+			
+			<!-- Cambiar el signo de # por tu enlace directo de adsterra u otro link-->
+			<!-- Change the # sign for your direct adsterra link or another link-->
+		</div>
 	</div>
     </div>
 </center>
-
 <style>
-.vigneta {height:100%; width:100%; position: fixed; z-index:1000; top:0; left:0; -webkit-backdrop-filter: blur(15px); backdrop-filter:blur(15px);                     background-color: rgba(52, 58, 65,0.600000);}
-  
-.modal {box-shadow: 0px 8px 12px rgb(60 64 67 / 15%), 0px 4px 4px rgb(60 64 67 / 30%); padding: 4px 1px 4px; width:336px; height:320px; position:fixed; z-index:1050; top:30%; left:40%; right:50%; background-color:#fff;border-radius:6px;}
-
-.fondogris {display:block;clear:both; margin: 5px 2px 2px 5px; width: 300px; height:250px;background:#ccc;overflow:hidden;}
-
-button 		  {border:none; border-radius:4px; cursor:pointer;}
-button.close  {height:33px; box-shadow: 0 6px 12px rgb(134 140 150 / 65%); font-size: 13px; width:40%;}
-button.open   {height:33px; box-shadow: 0 6px 12px rgb(134 140 150 / 65%); background-color:#0088ff; color:#fff; font-size: 13px; width:40%;}
+	.vigneta { height:100%; width:100%; position: fixed; z-index:1000; top:0; left:0; -webkit-backdrop-filter: blur(15px); backdrop-filter:blur(15px); background-color: rgba(52, 58, 65,0.600000);}
+	.modal {box-shadow: 0px 8px 12px rgb(60 64 67 / 15%), 0px 4px 4px rgb(60 64 67 / 30%); padding: 4px 1px 4px; width:336px; height:320px; position:fixed; z-index:1050; top:30%; left:40%; right:50%; background-color:#fff;border-radius:6px;}
+	.fondogris {display:block;clear:both; margin: 5px 2px 2px 5px; width: 300px; height:250px;background:#ccc;overflow:hidden;}
+	button {border:none; border-radius:4px; cursor:pointer;}
+	button.close {height:33px; box-shadow: 0 6px 12px rgb(134 140 150 / 65%); font-size: 13px; width:40%;}
+	button.open {height:33px; box-shadow: 0 6px 12px rgb(134 140 150 / 65%); background-color:#0088ff; color:#fff; font-size: 13px; width:40%;}
 </style>
-
 <script>
 	function closead(){document.getElementById('vigneta').style.display = 'none';}
 </script>
